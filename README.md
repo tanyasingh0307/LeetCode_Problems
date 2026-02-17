@@ -27,4 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1661-average-time-of-process-per-machine](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1661-average-time-of-process-per-machine) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
