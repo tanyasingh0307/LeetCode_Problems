@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0200-number-of-islands) |
 ## Depth-First Search
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0200-number-of-islands) |
 ## Database
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1116-print-zero-even-odd](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1116-print-zero-even-odd) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
