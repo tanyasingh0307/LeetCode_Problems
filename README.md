@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0200-number-of-islands) |
+| [1345-jump-game-iv](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1345-jump-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0200-number-of-islands) |
+| [1345-jump-game-iv](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1345-jump-game-iv) |
 ## Union-Find
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [1345-jump-game-iv](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1345-jump-game-iv) |
 <!---LeetCode Topics End-->
