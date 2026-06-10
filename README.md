@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0177-nth-highest-salary) |
 | [0511-game-play-analysis-i](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0511-game-play-analysis-i) |
 | [0607-sales-person](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0607-sales-person) |
+| [1407-top-travellers](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1407-top-travellers) |
 | [1661-average-time-of-process-per-machine](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1661-average-time-of-process-per-machine) |
 ## Backtracking
 |  |
