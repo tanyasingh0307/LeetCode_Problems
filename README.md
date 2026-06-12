@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0048-rotate-image) |
+| [0169-majority-element](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [1345-jump-game-iv](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1345-jump-game-iv) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0169-majority-element) |
 | [1345-jump-game-iv](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1345-jump-game-iv) |
 ## Two Pointers
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0169-majority-element) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Linked List
 |  |
@@ -81,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0203-remove-linked-list-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
