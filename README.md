@@ -96,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/3612-process-string-with-special-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
