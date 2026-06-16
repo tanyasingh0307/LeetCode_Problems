@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0607-sales-person) |
 | [1407-top-travellers](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1407-top-travellers) |
 | [1661-average-time-of-process-per-machine](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1661-average-time-of-process-per-machine) |
+| [1965-employees-with-missing-information](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1965-employees-with-missing-information) |
 ## Backtracking
 |  |
 | ------- |
