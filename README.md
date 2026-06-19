@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [1345-jump-game-iv](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1345-jump-game-iv) |
+| [1732-find-the-highest-altitude](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Depth-First Search
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/3612-process-string-with-special-operations-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
