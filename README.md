@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0200-number-of-islands) |
 | [1345-jump-game-iv](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1345-jump-game-iv) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sorting
 |  |
@@ -117,4 +119,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
