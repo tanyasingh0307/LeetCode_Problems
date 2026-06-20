@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1345-jump-game-iv](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1345-jump-game-iv) |
 | [1732-find-the-highest-altitude](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
 ## Dynamic Programming
 |  |
