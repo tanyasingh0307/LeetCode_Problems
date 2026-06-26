@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [1345-jump-game-iv](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1345-jump-game-iv) |
 | [1732-find-the-highest-altitude](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Depth-First Search
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0200-number-of-islands) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Database
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0242-valid-anagram) |
 | [1189-maximum-number-of-balloons](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1345-jump-game-iv](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1345-jump-game-iv) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Two Pointers
 |  |
 | ------- |
