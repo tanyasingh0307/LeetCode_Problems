@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1407-top-travellers) |
 | [1661-average-time-of-process-per-machine](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1661-average-time-of-process-per-machine) |
 | [1965-employees-with-missing-information](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1965-employees-with-missing-information) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/1978-employees-whose-manager-left-the-company) |
 | [3220-odd-and-even-transactions](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/3220-odd-and-even-transactions) |
 ## Backtracking
 |  |
