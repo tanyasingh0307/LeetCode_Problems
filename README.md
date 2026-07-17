@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0367-valid-perfect-square) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0096-unique-binary-search-trees) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tanyasingh0307/LeetCode_Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
